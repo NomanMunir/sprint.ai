@@ -1,0 +1,7 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-02-20 18:47 +04
+Nmap scan report for desktop-ie7eupa.tail6605c6.ts.net (100.113.47.90)
+Host is up (0.024s latency).
+All 65535 scanned ports on desktop-ie7eupa.tail6605c6.ts.net (100.113.47.90) are in ignored states.
+Not shown: 65535 filtered tcp ports (no-response)
+
+Nmap done: 1 IP address (1 host up) scanned in 262.59 seconds

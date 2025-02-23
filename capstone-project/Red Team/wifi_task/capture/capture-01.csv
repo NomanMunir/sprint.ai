@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+6E:D5:D2:02:BE:51, 2025-02-21 23:42:38, 2025-02-21 23:42:38,  1, 360, WPA2, CCMP, PSK, -35,        1,        0,   0.  0.  0.  0,   9, forSprint, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+E0:D4:64:6C:C8:E8, 2025-02-21 23:42:38, 2025-02-21 23:42:38, -33,        5, 6E:D5:D2:02:BE:51,
+
